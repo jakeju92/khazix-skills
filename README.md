@@ -29,7 +29,7 @@ Skill 的设计理念是**可组合、可移植、按需加载**。多个 Skill 
 ### 手动安装
 
 1. 在本仓库的 [Releases](https://github.com/KKKKhazix/khazix-skills/releases) 页面下载对应 Skill 的 `.skill` 安装包
-2. 将 `.skill` 文件拖动到你的项目的 `.skills/skills/` 目录下
+2. 将 `.skill` 文件拖动到 `~/.claude/skills/` 目录下
 
 适用于 Claude Code、OpenCode、Codex、OpenClaw 等所有支持 Agent Skills 标准的工具。
 
